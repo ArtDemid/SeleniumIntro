@@ -1,0 +1,19 @@
+﻿<testset>
+  <test>
+    <status>Ready for test</status>
+    <name>Check Start your family tree button work</name>
+    <id>1</id>
+    <datas>
+      <data>//*[@id="start_your_family_tree_button_mobile"]</data>
+    </datas>
+  </test>
+  <test>
+    <status>Ready for test</status>
+    <name>Check incorect login</name>
+    <id>2</id>
+    <datas>
+      <data>UserName</data>
+      <data>BlaBla</data>
+    </datas>
+  </test>
+</testset>
